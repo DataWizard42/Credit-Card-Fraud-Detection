@@ -27,7 +27,7 @@ Install the required dependencies:
 
 # bash  
 # Copy code  
-pip install -r requirements.txt
+### pip install -r requirements.txt
 Run the credit_card_fraud_detection.ipynb notebook to train and evaluate the model.
 
 # Results
